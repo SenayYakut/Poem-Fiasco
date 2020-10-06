@@ -8,7 +8,7 @@ In this project, changes have been made to a series of poems and you want to cha
 
 Install the project locally
 ```bash
-
+ git clone https://github.com/SenayYakut/Poem-Fiasco.git
 ```
 
 ## Usage
